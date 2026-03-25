@@ -27,7 +27,7 @@ public.definition = {
     tooltip  = "Fixes Braid of Atlas to properly buff casts.",
     default  = true,
     dataMutation = true,
-    modpackModule = true,
+    modpack = "h2-modpack",
 }
 
 -- =============================================================================
